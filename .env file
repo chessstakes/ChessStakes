@@ -1,0 +1,2 @@
+PORT=4000
+STRIPE_SECRET_KEY=your_stripe_api_key_here
